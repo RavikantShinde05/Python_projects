@@ -20,13 +20,13 @@ pyrecover/
 └── output/  (will hold recovered files)
 ```
 
-# Step 2: Install Required Tools on Your System🧪:
+## Step 2: Install Required Tools on Your System🧪:
 Make sure these are installed on your system (we’ll wrap them with Python):
 
 ```bash
 sudo apt install gddrescue testdisk extundelete
 ```
-📄 Step 3: Write tools.py – Wrap Tools Using subprocess:
+## Step 3: Write tools.py – Wrap Tools Using subprocess:
 
 ```bash
 
@@ -58,7 +58,7 @@ def run_extundelete(device_path, output_dir):
 ```
 
 
-# Step 4: ⚙️Write the CLI Interface in main.py :
+## Step 4: ⚙️Write the CLI Interface in main.py :
 
 ```bash
 
@@ -92,7 +92,7 @@ if __name__ == "__main__":
 
 ```
 
-# Step 5: Run the CLI Tool 🚀:
+## Step 5: Run the CLI Tool 🚀:
 From the terminal:
 
 ```bash
