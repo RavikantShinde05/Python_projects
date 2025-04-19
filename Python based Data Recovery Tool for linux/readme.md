@@ -1,4 +1,9 @@
-# Python CLI Data Recovery Tool 🐍:
+# Python CLI Data Recovery Tool (Practise-Project) 🐍:
+
+# ⚠️ Disclaimer :
+## Use this script responsibly. Always double-check disk paths before running recovery tools. This tool is meant for educational and recovery purposes as a practise-project only. 
+Running data recovery tools can further damage a drive if not used correctly.
+
 
 ## Step 1: Set Up Your Project Folder🧰:
 Create a directory for your project:
