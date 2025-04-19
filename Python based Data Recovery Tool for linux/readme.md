@@ -1,7 +1,7 @@
 # Python CLI Data Recovery Tool (Practise-Project) 🐍:
 
 # ⚠️ Disclaimer :
-## Use this script responsibly. Always double-check disk paths before running recovery tools. This tool is meant for educational and recovery purposes as a practise-project only. 
+## Use this script responsibly. Always double-check disk paths before running recovery tools. This tool is meant for educational and recovery purposes as a "Practise-Project" only. 
 Running data recovery tools can further damage a drive if not used correctly.
 
 
@@ -31,6 +31,7 @@ Make sure these are installed on your system (we’ll wrap them with Python):
 ```bash
 sudo apt install gddrescue testdisk extundelete
 ```
+
 ## Step 3: Write tools.py – Wrap Tools Using subprocess:
 
 ```bash
@@ -96,6 +97,7 @@ if __name__ == "__main__":
     main()
 
 ```
+
 
 ## Step 5: Run the CLI Tool 🚀:
 From the terminal:
